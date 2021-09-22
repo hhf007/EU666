@@ -1,7 +1,7 @@
-有BUG产生，现在别用这个脚本。。稍后更新 。
+
 
 ```
-wget -N https://bitbucket.org/rwkgyg/servxq/raw/8852f473c64cd04395b7f49b0b7b954cb77b9782/nmd.sh && chmod +x nmd.sh && ./nmd.sh
+wget -N https://bitbucket.org/rwkgyg/djre/raw/bd6793d9c7500b068d0241a3d6731ef701e33d5d/xqdj.sh && chmod +x xqdj.sh && ./xqdj.sh
 ```
 
-进入菜单快捷方式```bash nmd.sh```
+进入菜单快捷方式```bash xqdj.sh```
