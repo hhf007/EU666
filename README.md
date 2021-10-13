@@ -5,7 +5,7 @@ VPS专用一键脚本。
 AC私有文件已上传！
 
 ```
-wget -N https://bitbucket.org/rwkgyg/djre/raw/cf464e06f0af6996bf0829ed77576d7d160c30c6/xqdj.sh && chmod +x xqdj.sh && ./xqdj.sh
+wget -N https://bitbucket.org/rwkgyg/djre/raw/983323be2fe00409df38f777a0507e6196bea352/xqdj.sh && chmod +x xqdj.sh && ./xqdj.sh
 ```
 
 进入菜单快捷方式```bash xqdj.sh```
